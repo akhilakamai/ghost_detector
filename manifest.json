@@ -1,6 +1,6 @@
 {
   "name": "DEVPOPS_VALIDATOR",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "manifest_version": 2,
   "description": "This extension was created to verify if a request is coming from an Akamai sandbox or network ",
   "icons": {
